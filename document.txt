@@ -1,0 +1,4 @@
+Hello,
+this is a Confedential Document,
+which cannot be shared without encryption
+so encrypt the documents before sharing.
